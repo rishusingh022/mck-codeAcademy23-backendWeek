@@ -1,0 +1,25 @@
+{
+  "name": "mck-codeacademy23-backendweek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishusingh022/mck-codeAcademy23-backendWeek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishusingh022/mck-codeAcademy23-backendWeek/issues"
+  },
+  "homepage": "https://github.com/rishusingh022/mck-codeAcademy23-backendWeek#readme",
+  "dependencies": {
+    "eslint": "^8.32.0",
+    "jest": "^29.4.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
